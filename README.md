@@ -2,6 +2,8 @@
 
 Do-not-disturb team status OS X menu app
 
+![Flow](https://dl.dropbox.com/s/hpu63zme986dp8w/flow-app.png)
+
 Server
 ---
 * Flask microframework
